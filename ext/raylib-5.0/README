@@ -1,0 +1,4 @@
+This Raylib 5.0 source code is taken from https://github.com/raysan5/raylib/releases/tag/5.0
+
+In this voronoi project, I change the src/Makefile RAYLIB_LIBTYPE to SHARED so we can
+dynamically link it with the voronoi executable. 
