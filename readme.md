@@ -7,7 +7,7 @@
 git clone git@github.com:felixfjh/voronoi-raylib.git 
 cd voronoi-raylib/
 
-"in ext/raylib/src/Makefile, set the "RAYLIB_LIBTYPE to SHARED"
+"in ext/raylib/src/Makefile, set the RAYLIB_LIBTYPE to SHARED"
 make all
 
 ./bin/voronoi
